@@ -2,12 +2,12 @@
 meu nome é wheverton, tenho 28 anos, formado em sistemas de informação
 
 ## 📖 escolaridade ##
-Bacharelado em sistema de informação, na instituição unasp campus hortolandia [2015 - 2020]
-Tecnico de informatica, no instituto federal campus hortolandia [2012 - 2014]
+Bacharelado em sistema de informação, na instituição unasp campus hortolandia [2015 - 2020].  
+Tecnico de informatica, no instituto federal campus hortolandia [2012 - 2014].
 
 ## Habilidades ##
-linguagens: PHP, Python, JavaScript
-Ferramentas: Visual Studio, phpStorm, Unity e pycharm,.
+linguagens: PHP, Python, JavaScript.  
+Ferramentas: Visual Studio, phpStorm, Unity e pycharm.
 
 ## 🎯 Objetivo ##
 Estou buscando uma oportunidade para iniciar minha carreira em desenvolvimento de Software.
