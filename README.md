@@ -1,5 +1,5 @@
  # Olá, Seja bem vindo 🖐🏽 #
-meu nome é wheverton, tenho 28 anos, formado em sistemas de informação
+meu nome é wheverton, tenho 29 anos, formado em sistemas de informação
 
 ## 📖 escolaridade ##
 Bacharelado em sistema de informação, na instituição unasp campus hortolandia [2015 - 2020].  
